@@ -1,0 +1,318 @@
+Patient_id,Cycle,Source,Sample type,CDR3_Status
+LIB-14-0009,T0,Plasma,Streck tubes,QC passed
+LIB-14-0010,T0,Plasma,Streck tubes,Below-threshold TRB CDR3 count
+LIB-14-0028,T0,Plasma,Streck tubes,Below-threshold TRB CDR3 count
+LIB-14-0032,T0,Plasma,Streck tubes,Below-threshold TRB CDR3 count
+LIB-14-0064,T0,Plasma,Streck tubes,QC passed
+LIB-14-0067,T0,Plasma,Streck tubes,QC passed
+LIB-14-0002,T2,Plasma,Streck tubes,QC passed
+LIB-14-0012,T2,Plasma,Streck tubes,QC passed
+LIB-14-0064,T2,Plasma,Streck tubes,Below-threshold TRB CDR3 count
+LIB-14-0027,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0018,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0029,T4,Plasma,EDTA tubes,Below-threshold TRB CDR3 count
+LIB-14-0001,T0,Plasma,Streck tubes,QC passed
+LIB-14-0002,T0,Plasma,Streck tubes,QC passed
+LIB-14-0011,T0,Plasma,Streck tubes,QC passed
+LIB-14-0012,T0,Plasma,Streck tubes,QC passed
+LIB-14-0013,T0,Plasma,Streck tubes,QC passed
+LIB-14-0016,T0,Plasma,Streck tubes,QC passed
+LIB-14-0018,T0,Plasma,Streck tubes,QC passed
+LIB-14-0020,T0,Plasma,Streck tubes,QC passed
+LIB-14-0021,T0,Plasma,Streck tubes,QC passed
+LIB-14-0025,T0,Plasma,Streck tubes,QC passed
+LIB-14-0026,T0,Plasma,Streck tubes,QC passed
+LIB-14-0027,T0,Plasma,Streck tubes,QC passed
+LIB-14-0029,T0,Plasma,Streck tubes,QC passed
+LIB-14-0031,T0,Plasma,Streck tubes,QC passed
+LIB-14-0033,T0,Plasma,Streck tubes,QC passed
+LIB-14-0034,T0,Plasma,Streck tubes,QC passed
+LIB-14-0035,T0,Plasma,Streck tubes,QC passed
+LIB-14-0036,T0,Plasma,Streck tubes,QC passed
+LIB-14-0038,T0,Plasma,Streck tubes,QC passed
+LIB-14-0039,T0,Plasma,Streck tubes,QC passed
+LIB-14-0042,T0,Plasma,Streck tubes,QC passed
+LIB-14-0044,T0,Plasma,Streck tubes,QC passed
+LIB-14-0045,T0,Plasma,Streck tubes,QC passed
+LIB-14-0046,T0,Plasma,Streck tubes,QC passed
+LIB-14-0047,T0,Plasma,Streck tubes,QC passed
+LIB-14-0048,T0,Plasma,Streck tubes,QC passed
+LIB-14-0049,T0,Plasma,Streck tubes,QC passed
+LIB-14-0050,T0,Plasma,Streck tubes,QC passed
+LIB-14-0051,T0,Plasma,Streck tubes,QC passed
+LIB-14-0052,T0,Plasma,Streck tubes,QC passed
+LIB-14-0054,T0,Plasma,Streck tubes,QC passed
+LIB-14-0057,T0,Plasma,Streck tubes,QC passed
+LIB-14-0058,T0,Plasma,Streck tubes,QC passed
+LIB-14-0060,T0,Plasma,Streck tubes,QC passed
+LIB-14-0062,T0,Plasma,Streck tubes,QC passed
+LIB-14-0063,T0,Plasma,Streck tubes,QC passed
+LIB-14-0066,T0,Plasma,Streck tubes,QC passed
+LIB-14-0068,T0,Plasma,Streck tubes,QC passed
+LIB-14-0070,T0,Plasma,Streck tubes,QC passed
+LIB-14-0073,T0,Plasma,Streck tubes,QC passed
+LIB-14-0074,T0,Plasma,Streck tubes,QC passed
+LIB-14-0076,T0,Plasma,Streck tubes,QC passed
+LIB-14-0078,T0,Plasma,Streck tubes,QC passed
+LIB-14-0001,T2,Plasma,Streck tubes,QC passed
+LIB-14-0009,T2,Plasma,Streck tubes,QC passed
+LIB-14-0010,T2,Plasma,Streck tubes,QC passed
+LIB-14-0011,T2,Plasma,Streck tubes,QC passed
+LIB-14-0013,T2,Plasma,Streck tubes,QC passed
+LIB-14-0016,T2,Plasma,Streck tubes,QC passed
+LIB-14-0018,T2,Plasma,Streck tubes,QC passed
+LIB-14-0020,T2,Plasma,Streck tubes,QC passed
+LIB-14-0021,T2,Plasma,Streck tubes,QC passed
+LIB-14-0025,T2,Plasma,Streck tubes,QC passed
+LIB-14-0026,T2,Plasma,Streck tubes,QC passed
+LIB-14-0027,T2,Plasma,Streck tubes,QC passed
+LIB-14-0028,T2,Plasma,Streck tubes,QC passed
+LIB-14-0029,T2,Plasma,Streck tubes,QC passed
+LIB-14-0031,T2,Plasma,Streck tubes,QC passed
+LIB-14-0032,T2,Plasma,Streck tubes,QC passed
+LIB-14-0033,T2,Plasma,Streck tubes,QC passed
+LIB-14-0034,T2,Plasma,Streck tubes,QC passed
+LIB-14-0035,T2,Plasma,Streck tubes,QC passed
+LIB-14-0036,T2,Plasma,Streck tubes,QC passed
+LIB-14-0038,T2,Plasma,Streck tubes,QC passed
+LIB-14-0039,T2,Plasma,Streck tubes,QC passed
+LIB-14-0044,T2,Plasma,Streck tubes,QC passed
+LIB-14-0046,T2,Plasma,Streck tubes,QC passed
+LIB-14-0047,T2,Plasma,Streck tubes,QC passed
+LIB-14-0048,T2,Plasma,Streck tubes,QC passed
+LIB-14-0049,T2,Plasma,Streck tubes,QC passed
+LIB-14-0050,T2,Plasma,Streck tubes,QC passed
+LIB-14-0051,T2,Plasma,Streck tubes,QC passed
+LIB-14-0052,T2,Plasma,Streck tubes,QC passed
+LIB-14-0054,T2,Plasma,Streck tubes,QC passed
+LIB-14-0057,T2,Plasma,Streck tubes,QC passed
+LIB-14-0058,T2,Plasma,Streck tubes,QC passed
+LIB-14-0060,T2,Plasma,Streck tubes,QC passed
+LIB-14-0062,T2,Plasma,Streck tubes,QC passed
+LIB-14-0063,T2,Plasma,Streck tubes,QC passed
+LIB-14-0066,T2,Plasma,Streck tubes,QC passed
+LIB-14-0067,T2,Plasma,Streck tubes,QC passed
+LIB-14-0068,T2,Plasma,Streck tubes,QC passed
+LIB-14-0070,T2,Plasma,Streck tubes,QC passed
+LIB-14-0074,T2,Plasma,Streck tubes,QC passed
+LIB-14-0076,T2,Plasma,Streck tubes,QC passed
+LIB-14-0078,T2,Plasma,Streck tubes,QC passed
+LIB-14-0001,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0009,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0010,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0011,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0012,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0013,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0016,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0018,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0021,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0025,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0026,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0028,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0029,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0031,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0033,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0035,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0036,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0038,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0039,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0044,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0045,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0046,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0047,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0048,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0050,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0051,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0052,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0054,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0057,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0058,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0060,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0062,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0063,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0066,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0067,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0068,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0070,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0073,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0076,T3,Plasma,EDTA tubes,QC passed
+LIB-14-0001,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0009,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0010,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0011,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0012,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0013,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0016,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0021,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0025,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0026,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0027,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0028,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0031,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0033,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0035,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0036,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0038,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0039,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0044,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0046,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0047,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0048,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0050,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0051,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0052,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0054,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0057,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0058,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0060,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0062,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0063,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0066,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0067,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0068,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0070,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0073,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0076,T4,Plasma,EDTA tubes,QC passed
+LIB-14-0042,T5,Plasma,EDTA tubes,QC passed
+LIB-14-0006,T0,Tumour,FFPE,QC passed
+LIB-14-0016,T0,Tumour,FFPE,QC passed
+LIB-14-0020,T0,Tumour,FFPE,QC passed
+LIB-14-0035,T0,Tumour,FFPE,QC passed
+LIB-14-0039,T0,Tumour,FFPE,QC passed
+LIB-14-0045,T0,Tumour,FFPE,QC passed
+LIB-14-0048,T0,Tumour,FFPE,QC passed
+LIB-14-0054,T0,Tumour,FFPE,QC passed
+LIB-14-0060,T0,Tumour,FFPE,QC passed
+LIB-14-0064,T0,Tumour,FFPE,QC passed
+LIB-14-0072,T0,Tumour,FFPE,QC passed
+LIB-14-0074,T0,Tumour,FFPE,QC passed
+LIB-14-0076,T0,Tumour,FFPE,QC passed
+LIB-14-0078,T0,Tumour,FFPE,QC passed
+LIB-14-0080,T0,Tumour,FFPE,QC passed
+LIB-14-0082,T0,Tumour,FFPE,QC passed
+LIB-14-0083,T0,Tumour,FFPE,QC passed
+LIB-14-0084,T0,Tumour,FFPE,QC passed
+LIB-14-0085,T0,Tumour,FFPE,QC passed
+LIB-14-0086,T3,Tumour,FFPE,QC passed
+LIB-14-0001,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0002,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0009,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0010,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0011,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0012,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0013,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0016,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0018,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0021,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0025,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0026,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0027,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0028,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0029,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0031,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0033,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0034,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0035,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0036,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0039,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0042,T0,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0001,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0002,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0009,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0010,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0011,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0012,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0013,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0016,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0018,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0021,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0025,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0026,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0027,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0028,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0029,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0031,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0033,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0034,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0035,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0036,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0039,T2,Peripheral Blood,Buffy coat,QC passed
+LIB-14-0001,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0009,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0010,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0011,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0012,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0013,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0016,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0018,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0021,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0025,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0026,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0027,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0028,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0029,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0031,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0033,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0035,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0036,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0038,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0039,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0044,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0045,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0046,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0047,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0048,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0050,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0051,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0052,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0054,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0057,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0058,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0060,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0062,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0063,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0066,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0067,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0068,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0070,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0073,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0076,T3,Peripheral Blood,PBMC,QC passed
+LIB-14-0001,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0009,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0010,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0011,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0012,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0013,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0016,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0018,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0021,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0025,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0026,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0027,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0028,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0029,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0031,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0033,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0035,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0038,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0039,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0044,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0046,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0047,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0048,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0050,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0051,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0052,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0054,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0057,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0058,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0060,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0062,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0063,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0066,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0067,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0068,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0070,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0073,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0076,T4,Peripheral Blood,PBMC,QC passed
+LIB-14-0042,T5,Peripheral Blood,PBMC,QC passed
