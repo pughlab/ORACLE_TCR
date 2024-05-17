@@ -1,0 +1,58 @@
+﻿Patient_id,IRAE,EBV,Age,Sex,Ethnicity,ECOG,Date of diagnosis,Smoking,Pack years,Stage,Histology,Mutation,PD-L1,Chemo,RTResponse,DurvaResponse,PFS_event,PD/Last CT Date,1L drug,1L type,1L date,PFS_RT (mo),PFS_durva,Death,Death/Last FU date,OS
+LIB-14-0001,None,,41,M,Asian,1,17-May-18,Former,20,3A,Adeno,ALK,unknown (cyto),CIS/ETOP,SD,PR,1,26-Nov-19,Alectinib,TKI,09-Apr-20,16.8,13.4,1,04-Nov-21,40.1
+LIB-14-0002,None,,63,F,Caucasian,0,17-Apr-18,Former,unknown,3A,Adeno,None,unknown,CARBO/ETOP,PD,NA,1,31-Dec-18,Nivolumab,IO,15-Oct-18,5.7,#VALUE!,1,31-Dec-18,5.7
+LIB-14-0006,None,,72,F,Caucasian,1,16-May-18,Former,20,3A,Adeno,KRAS-G12C,70,CIS/ETOP,SD,SD,1,13-Dec-19,Ipilimumab/ICOS inhibitor,IO,22-Jan-20,17.6,13.9,0,26-Jan-24,67.1
+LIB-14-0009,None,,62,M,Caucasian,0,04-May-18,Current,50,3A,Squamous,Unknown,0,CIS/ETOP,SD,PD,1,06-Feb-19,Carbo/gem,Chemo,08-Mar-19,6.5,1.7,1,07-Dec-19,16.5
+LIB-14-0010,None,,69,M,Caucasian,1,20-Jun-18,Current,45,3C,Adeno,TP53,unknown,CIS/ETOP,PD,,1,05-Apr-19,Nivolumab,IO,21-Nov-18,8.2,#VALUE!,1,06-Jul-19,11.2
+LIB-14-0011,None,,60,F,Caucasian,1,06-Jul-18,Never,0,3B,Adeno,EGFR,90,CIS/ETOP,PR,SD,0,16-Oct-23,,,,62.3,60,0,30-Oct-23,62.8
+LIB-14-0012,Gr2Colitis,,48,M,Asian,1,02-May-18,Light,1,3A,Adeno,ALK,>50,CIS/ETOP,SD,CR,0,13-Sep-23,,,,61.2,58.9,0,27-Sep-23,61.7
+LIB-14-0013,Gr2Colitis,,81,M,Caucasian,1,20-Jun-18,Current,30,3A,Adeno,KRAS-G12V,90,CARBO/ETOP,PR,SD,1,08-Nov-19,Carbo/pem,Chemo,08-Jul-20,15.3,12,1,18-Nov-20,27.6
+LIB-14-0016,Gr2Colitis-andGr3Hepatitis,,59,M,Caucasian,1,21-Jun-18,Current,60,3A,Adeno,KRAS-G12A-andTP53,60,CIS/ETOP,SD,SD,1,29-Jan-19,No tx,,,5.3,2.8,1,28-Dec-19,16.3
+LIB-14-0018,None,,50,F,Asian,0,13-Aug-18,Never,0,3A,Adeno,EGFR,90,CIS/ETOP,SD,PD,1,25-Jan-19,Gefitinib,TKI,25-Jan-19,4.3,1.5,1,07-Dec-23,62.7
+LIB-14-0020,None,,61,F,Caucasian,1,15-Aug-18,Former,45,3B,Adeno,TP53,0,CIS/ETOP,PR,,0,29-Nov-23,,,,61.9,#VALUE!,0,29-Nov-23,61.9
+LIB-14-0021,None,,66,M,Caucasian,1,11-Jul-18,Former,45,3A,Adeno,None,1,CIS/ETOP,PD,,1,10-May-19,Nivolumab,IO,18-Mar-19,7.7,#VALUE!,1,02-Jun-19,8.5
+LIB-14-0025,Gr2Pneumonitis,,40,F,Caucasian,1,25-Oct-18,Current,10,3A,Adeno,EGFR-L858R-andALK ,80,CIS/ETOP,SD,PR,1,16-Dec-20,Alectinib,TKI,21-Dec-20,24.7,21.9,0,06-Mar-23,51.3
+LIB-14-0026,Gr2Arthritis-andGr2Hypothyroid,,80,M,Caucasian,1,12-Oct-18,Current,70,3A,Squamous,Unknown,3,CARBO/TAXOL,PR,CR,0,31-Dec-20,,,,24.7,22.6,1,04-May-21,28.8
+LIB-14-0027,Gr2Arthritis-andGr2Hypothyroid-andGr2Hepatitis,,54,F,Other,0,25-Oct-18,Light,10,3B,Adeno,None,40,CIS/PEM,SD,PR,1,29-Aug-23,Lorlatinib,TKI,19-Sep-23,56.6,54.3,0,20-Dec-23,60.3
+LIB-14-0028,Gr1Dermatitis,,69,M,Caucasian,0,16-Nov-18,Former,22,3B,Squamous,Unknown,unknown,CARBO/TAXOL,PR,PR,0,15-Sep-23,,,,56.6,54.4,0,22-Sep-23,56.8
+LIB-14-0029,Gr3Pneumonitis,,49,M,Caucasian,0,06-Dec-18,Former,60,3B,Adeno,KRAS-G12C-andTP53,0,CIS/PEM,SD,CR,0,17-Aug-23,,,,55.1,52.6,0,28-Aug-23,55.4
+LIB-14-0031,Gr2Pneumonitis,,67,M,Caucasian,1,20-Nov-18,Former,25,3C,Adeno,KRAS-G12V-andTP53-andRB1,0,CIS/PEM,SD,SD,1,23-Sep-19,Pembro/carbo/pem,Chem/IO,26-Feb-20,8.3,5.8,1,31-Mar-21,26.5
+LIB-14-0032,None,,77,M,Caucasian,1,07-Dec-18,Former,20,3A,Squamous,Unknown,60,CARBO/TAXOL,PR,SD,0,15-Dec-22,,,,47.2,40.5,1,16-Jan-23,48.3
+LIB-14-0033,Gr1Hypothyroid,,82,M,Caucasian,0,19-Dec-18,Never,0,3B,Adeno,EGFR-G719X,0,CARBO/PEM,SD,SD,1,11-Aug-19,Osimertinib,TKI,29-Jul-21,6.5,3.3,0,14-Dec-23,58.6
+LIB-14-0034,Unknown,,62,F,Caucasian,1,13-Dec-18,Former,45,3A,Squamous,None,70,CARBO/TAXOL,SD,,0,28-Nov-19,,,,10.4,#VALUE!,1,28-Nov-19,10.4
+LIB-14-0035,Gr2Pneumonitis,,78,M,Caucasian,1,28-Nov-18,Current,60,3A,Adeno,TP53,unknown,CARBO/TAXOL,PR,SD,0,26-Jul-23,,,,54.3,52.1,0,30-Nov-23,58.5
+LIB-14-0036,Gr1Hypothyroid-andGr2Pneumonitis,,79,F,Caucasian,1,06-Nov-18,Former,100,3C,Squamous,Unknown,0,CARBO/TAXOL,SD,SD,0,05-Jan-22,,,,35.7,31.3,1,25-Aug-22,43.3
+LIB-14-0038,Gr2Pneumonitis-andGr2Hypothyroid,,78,M,Asian,1,11-Jan-19,Former,66,3A,Adeno,TP53,0,CIS/PEM,PR,PR,0,27-Jun-23,,,,52.2,49.5,0,12-Oct-23,55.7
+LIB-14-0039,Gr2Hypothyroid-andGr2Hepatitis,,74,M,Arabic,1,28-Dec-18,Former,100,3A,Adeno,TP53,85,CARBO/PEM,PR,PR,1,22-Nov-19,No tx,,,9,6.7,0,22-Jul-20,17
+LIB-14-0042,Unknown,,62,M,Caucasian,1,24-Jan-19,Current,50,3C,Squamous,Unknown,2,CARBO/TAXOL,PD,,1,27-Mar-19,No tx,,,0.4,#VALUE!,1,06-May-19,1.7
+LIB-14-0044,Gr3Pneumonitis-andGr2Hypothyroid,,67,M,Caucasian,1,22-Jan-19,Former,80,3A,Squamous,Unknown,90,CARBO/TAXOL,SD,PR,1,22-Jul-20,Docetaxel,Chemo,27-Aug-20,16.1,13.6,1,13-Mar-21,23.8
+LIB-14-0045,Gr2SiccaSymptoms-andGr2Hypothyroid,,67,F,Caucasian,1,27-Feb-19,Current,30,3A,Adeno,KRAS-G12C-andTP53,0,CIS/PEM,SD,SD,1,25-Jan-23,No tx,,,46.1,43,0,20-Dec-23,56.9
+LIB-14-0046,None,,72,M,Caucasian,1,04-Mar-19,Former,40,3B,Adeno,TP53,99,CARBO/PEM,PR,SD,0,08-Sep-23,,,,53,50,0,29-Nov-23,55.7
+LIB-14-0047,Gr1Hypothyroid,,67,M,Asian,1,06-Mar-19,Former,25,3B,Squamous,Unknown,5,CARBO/TAXOL,PR,SD,0,11-Oct-23,,,,54.2,51.4,0,30-Oct-23,54.9
+LIB-14-0048,Gr2Hypothyroid-andGr2AdrenalInsufficiency,,59,M,Caucasian,0,07-Mar-19,Former,22,3B,Adeno,None,0,CIS/PEM,PR,CR,0,12-Jun-23,,,,50.1,47.6,0,24-Oct-23,54.5
+LIB-14-0049,Unknown,,73,F,Caucasian,1,22-Feb-18,Former,40,3C,Squamous,Unknown,0,CARBO/TAXOL,SD,,0,09-Nov-23,,,,55.2,#VALUE!,0,09-Nov-23,55.2
+LIB-14-0050,None,,61,F,Caucasian,1,14-Feb-19,Former,30,3A,Adeno,KRAS-G12D-andPIK3CA-andTP53,2,CARBO/TAXOL,PR,SD,1,31-Oct-19,No tx,,,7,4.2,1,06-Jun-21,26.2
+LIB-14-0051,Gr2Pneumonitis,,65,F,Caucasian,1,05-Apr-19,Current,47,3A,Adeno,KRAS-Q61L-andTP53,100,CARBO/TAXOL,SD,SD,1,20-May-22,Pembrolizumab,IO,15-Sep-22,36.2,33.7,1,04-Jan-23,43.7
+LIB-14-0052,Gr2Hypothyroid-andGr2AdrenalInsufficiency,,50,M,Asian,0,22-Mar-19,Former,30,3A,Adeno,EGFR-L858R-andTP53,5,CIS/PEM,SD,SD,1,30-Dec-19,Osimertinib,TKI,28-May-20,7.3,4.8,1,14-Sep-22,39.8
+LIB-14-0054,Gr1Pneumonitis,,58,M,Caucasian,0,17-Apr-19,Never,0,3A,Adeno,ALK,>50,CIS/ETOP,SD,SD,1,27-May-21,Alectinib,TKI,06-Jul-21,24.2,21.3,0,12-Sep-23,51.7
+LIB-14-0057,Gr2Pneumonitis,,50,F,Asian,0,10-May-19,Never,0,3B,Adeno,ALK,100,CIS/ETOP,SD,PR,1,06-Aug-20,Alectinib,TKI,07-Aug-20,13.9,11.6,0,23-Oct-23,52.4
+LIB-14-0058,None,,68,F,Asian,0,30-May-19,Never,0,3A,Adeno,EGFR,5,CIS/ETOP,SD,SD,1,04-Mar-20,Osimertinib,TKI,09-Mar-20,8.3,6.2,1,07-Dec-22,41.4
+LIB-14-0060,Gr2BullousPemphigoid ,,79,M,Caucasian,1,06-Jun-19,Former,20,3A,Adeno,None,unknown,CARBO/TAXOL,PR,CR,0,09-Nov-23,,,,51.8,49.3,0,30-Nov-23,52.5
+LIB-14-0062,Gr2Hypothyroid-andGr2Hepatitis,,85,M,Caucasian,1,30-May-19,Former,60,3A,Squamous,None,90,CARBO/TAXOL,PR,SD,0,01-Jun-22,,,,34.6,31.1,1,05-Jul-22,35.7
+LIB-14-0063,Gr2Pneumonitis,,86,F,Caucasian,1,03-Jul-19,Former,20,3A,Squamous,Unknown,unknown,CARBO/TAXOL,SD,SD,1,16-Sep-20,No tx,,,13.9,11.1,1,11-Aug-21,24.7
+LIB-14-0064,Gr4Diabetes ,,73,F,Caucasian,1,29-May-19,Never,0,3A,Adeno,None,100,CIS/ETOP,CR,CR,0,01-Dec-23,,,,51.6,47,0,20-Dec-23,52.3
+LIB-14-0066,Gr2Pneumonitis-andGr1Hypothyroid,,68,M,Asian,0,30-May-19,Former,30,3A,Adeno,None,90,CIS/ETOP,SD,PR,0,11-Jan-23,,,,40.8,37.7,0,25-Jan-23,41.2
+LIB-14-0067,Gr2Hypothyroid,,61,M,Caucasian,0,08-Aug-19,Light,4,3A,Adeno,ALK,15,CIS/ETOP,SD,SD,1,24-Jun-20,Alectinib,TKI,25-Jun-20,10.2,7.2,0,05-Dec-23,51.6
+LIB-14-0068,Gr1Pneumonitis,EBV negative,71,M,Asian,1,11-Jul-19,Never,0,3C,NOS,CHEK2-andMSS-andTMB4,0,CIS/ETOP,SD,PR,1,28-Apr-21,"RT, no systemic tx",,,20.1,18,0,06-Dec-23,51.4
+LIB-14-0070,None,,65,M,Caucasian,1,19-Aug-19,Former,45,3A,Squamous,None,0,CARBO/ETOP,PR,PR,1,25-Mar-23,"RT, no tx",,,42.5,40.2,0,13-Jul-23,46.1
+LIB-14-0072,Unknown,,60,M,Unknown,1,05-Sep-19,Current,45,3A,Adeno,KRAS-G12C,0,CARBO/ETOP,SD,,0,26-Aug-20,,,,10.6,#VALUE!,0,26-Aug-20,10.6
+LIB-14-0073,Gr2Pneumonitis,,74,M,Caucasian,0,16-Jul-19,Former,50,3B,Squamous,None,0,CARBO/TAXOL,PR,PR,1,18-Jun-20,Carbo/gem,Chemo,06-Jul-20,7.9,4,1,15-Oct-21,23.8
+LIB-14-0074,Gr3Pneumonitis,,75,F,Caucasian,2,16-Sep-19,Former,65,3B,Adeno,None,0,CARBO/TAXOL,SD,SD,1,29-Jun-20,Pemetrexed,Chemo,07-Aug-20,7.8,5.5,1,02-Nov-20,12
+LIB-14-0076,Gr1Pneumonitis,,72,M,Caucasian,0,30-Oct-19,Former,40,3A,Adeno,TP53,0,CIS/ETOP,SD,SD,1,29-Jun-20,"RT, no systemic tx",,,7.4,4.5,1,05-Feb-23,38.6
+LIB-14-0078,Gr1Pneumonitis,,61,F,Unknown,1,09-Oct-19,Former,25,3A,Adeno,TP53,15,CIS/ETOP,PR,PR,0,19-Sep-23,,,,45.1,42.3,0,08-Dec-23,47.7
+LIB-14-0080,None,,72,F,Caucasian,1,24-Oct-19,Light,10,3B,Adeno,EGFR-L858R,2,CIS/ETOP,PD,,1,06-Mar-20,Osimertinib,TKI,19-Mar-20,2,#VALUE!,1,10-Apr-22,27.1
+LIB-14-0082,Gr1Pneumonitis-andGr1Hypothyroid-andGr1Dermatitis-andInfusionReaction,,74,F,Caucasian,0,19-Dec-19,Former,15,3B,LargeCell,None,100,CARBO/ETOP,PR,SD,0,18-Nov-22,,,,33,29.8,1,25-Nov-22,33.2
+LIB-14-0083,None,,64,M,Caucasian,1,22-Jan-20,Former,60,3A,Adeno,None,15,CIS/ETOP,PR,CR,0,28-Sep-23,,,,43.6,40.1,0,17-Nov-23,45.2
+LIB-14-0084,Gr1Pneumonitis-andGr1Colitis,,61,M,Caucasian,0,09-Jan-20,Former,30,3B,Adeno,KRAS-G12C-andTP53,3,CARBO/ETOP,SD,SD,1,27-Jun-22,no tx (radiation),,,28.5,26.1,0,19-Dec-23,46.3
+LIB-14-0085,None,,61,F,Unknown,0,14-Jan-20,Never,0,3B,Adeno,EGFR-L858R,0,CIS/ETOP,SD,CR,1,29-Jan-23,Osimertinib,TKI,30-Jan-23,35.4,32.9,0,22-Jan-24,47.1
+LIB-14-0086,None,,55,F,African,1,16-Jan-20,Never,0,3B,Adeno,EGFR,80,CARBO/ETOP,SD,,1,05-Oct-20,Osimertinib,TKI,10-Nov-20,7.4,#VALUE!,1,29-Mar-21,13.1
